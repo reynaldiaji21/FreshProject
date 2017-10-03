@@ -23,7 +23,7 @@ import javax.swing.table.TableRowSorter;
 
 /**
  *
- * @author Mochammad Reynaldi Aji Dinata
+ * @author user
  */
 public class TableRowSelection extends javax.swing.JFrame {
 

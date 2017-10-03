@@ -7,7 +7,7 @@ package freshproject;
 
 /**
  *
- * @author Mochammad Reynaldi Aji Dinata
+ * @author user
  */
 public class Person {
 
